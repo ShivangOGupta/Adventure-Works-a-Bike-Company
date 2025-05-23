@@ -42,7 +42,8 @@ This dashboard helps the Adventure Works to  analyse their business at a differe
 ![Screenshot (90)](https://github.com/user-attachments/assets/59280d39-f060-46e7-ab15-01012fb02e33)
 ## 📸 Page -> 3 ( Customer Details ) Snapshot
 🧾 Page Info ↓
-* A slicer which is used to select between the Total costumers and the revenue per costumer .
+* The Field parameter is used to change the fields on the y-axis of line chart between the  Total costumers and the revenue per costumer .
+* The line chart is connected to the field parameter and its y-axis change according to the field paramter .
 * The two card on the left shows the unique costumers and the Revenue per costumer .
 * The two donut chart the one donut chart  shows the data of orders by different income level 
   and the the other donut chart shows the data of orders by differeent occupation .
