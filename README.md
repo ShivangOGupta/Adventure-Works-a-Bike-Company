@@ -20,20 +20,52 @@ This dashboard helps the Adventure Works to  analyse their business at a differe
 
 ##  📸 Page -> 1 ( Executive Dashboard ) Snapshot 
 🧾 Page Info ↓
-* A card visual which represent total revenue,total profit , total orders,return rate 
+* A card visual above which represent total revenue,total profit , total orders,return rate 
 * A line chart which represent the revenue and has the  date granularity on x-axis 
 * Three KPIs cards which represent the monthly revenue , monthly order , monthly return compare to the previous month .
 * A bar chart which has the categories on y-axis and the orders on x-axis
 * The matrix which shows the product name , order, revenue, return % and it is filter by top 10 product with respect to the total order and it is filter by using  topN filter. There is also the drill through option so you can analyse the single product in the product detail page.
 * The two card represent the most ordered Product Type and the most returned product type and above it there are two text boxes.
-  
+* ⚠️ All the visual on the screen can be changing when  the cross filtering is applied. 
+
+
       
 ![Screenshot (89)](https://github.com/user-attachments/assets/6bc0e022-bcff-413e-a080-f0d119ed10be)
 ## 📸 Page -> 2 ( Map ) Snapshot 
+🧾 Page Info ↓
+* A slicer which is used to select the different continent .
+* A map which shows the the continent according to the slicer and the blue bubble shows the the total order of the specific country .
+*  ⚠️ All the visual on the screen can be changing when the cross filtering is applied.
+
+  
+
 ![Screenshot (90)](https://github.com/user-attachments/assets/59280d39-f060-46e7-ab15-01012fb02e33)
 ## 📸 Page -> 3 ( Customer Details ) Snapshot
+🧾 Page Info ↓
+* A slicer which is used to select between the Total costumers and the revenue per costumer
+* The two card on the left shows the unique costumers and the Revenue per costumer
+* The two donut chart the one donut chart  shows the data of orders by different income level
+  and the the other donut chart shows the data of orders by differeent occupation
+* The matrix which represent the Costumer Key , Full Name , Order , Revenue .
+* The slider filter of the date from 2020 to 2022
+* The cards on the right bottom that represent the top costumer  , order by that costumer , and the revenue by that costumer
+* The info button which shows the customer in the management roles in 2022  drove the most revenue  at 6.8 when clicked with the help of action feature and the bookmark. 
+* ⚠️ All the visual on the screen can be changing when the cross filtering is applied.
+
+  
+
 ![Screenshot (91)](https://github.com/user-attachments/assets/3ff30dcf-e060-4d86-8a6e-bec6d5d9d0f2)
 ## 📸 Page -> 4 ( Product Details ) Snapshot 
+🧾 Page Info ↓
+* The gauge charts used to check the performance of the product on the bases of orders , Revenue and the profit and its compare to its targets.
+* The card shows the product name.
+* The numeric parameter(Price Adjustment) is used to change the price by the increase of 10 %.
+* The line chart is connected to the numeric parameter the black line shows the total profit and the blue line shows the adjusted profit respect to the numeric paramter.
+* The Field parameter (Product Metric Selection) is used to change fields on the y-axis of the area chart .
+* The area chart is connected to the Field parameter and its y-axis changes according to the Product metric selection.
+* ⚠️ All the visual on the screen can be changing when the cross filtering is applied.
+
+
 ![Screenshot (92)](https://github.com/user-attachments/assets/c49da0cb-6ae5-4e04-b345-60d786f08d34)
 
 ## 📱 Mobile Layout Snapshot
