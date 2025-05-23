@@ -1,2 +1,18 @@
-# Adventure-Works-a-Bike-Company
+ # Adventure Works a Bike Company - Dashboard
+
+### Dashboard Link : https://app.powerbi.com/links/tPx_cQ7V9d?ctid=edc5c3bf-4ab5-4697-84fa-41b44eb08b5e&pbi_source=linkShare
+
+## Company Overview
+
 Adventure Works is a premier provider of high-quality bicycles, accessories, clothing, and components, dedicated to fueling the passion of cyclists around the world. Founded with a mission to make cycling accessible, enjoyable, and adventurous for everyone, Adventure Works combines innovation, durability, and style in every product it offers.
+
+
+## Overview  
+
+This dashboard helps the Adventure Works to  analyse their business at a different level with the help of revenue , orders , profits, return rates cards with the granularity of  differents time periods and the specific products as well, Drill through feature  by the specific product also a very cool analyse option , Different interactive Charts to analyse the  performance , It also help to analyse the growth of a company by comparing to previous time  period using different charts options like the gauge cart and also by the KPIs cards and also able to track the top costumer with the  granularity of dates and different fields .Click the above  dashboard link to checkout  more interactive analyse options available  in this dashboard .
+![Screenshot (86)](https://github.com/user-attachments/assets/0f4ef54d-8558-4378-8ea0-42dd62d3ae05)   ![Screenshot (86)](https://github.com/user-attachments/assets/a4033ca1-f684-4bcf-a36d-8a8bbffec83d)
+![Screenshot (87)](https://github.com/user-attachments/assets/3ba3ed25-1508-4dd9-94a3-990bf9dced2d)
+
+
+
+
