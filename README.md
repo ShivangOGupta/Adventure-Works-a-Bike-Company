@@ -19,6 +19,16 @@ This dashboard helps the Adventure Works to  analyse their business at a differe
 ![Screenshot (88)](https://github.com/user-attachments/assets/ed88ac3a-97e8-485d-b712-26371fc89f7f)
 
 ##  📸 Page -> 1 ( Executive Dashboard ) Snapshot 
+     🧾 Page Info ↓
+     ->A card visual which represent total revenue,total profit , total orders,return 
+      rate
+     ->A line chart which represent the revenue and has the  date granularity on x-axis 
+     ->Three KPIs cards which represent the monthly revenue , monthly order , monthly return compare to the previous month .
+     -> A bar chart which has the categories on y-axis and the orders on x-axis
+     -> The matrix which shows the product name , order, revenue, return % and it is filter by 
+      top 10 product with respect to the total order and it is filter by using  topN filter. 
+     ->  The two card represent the most ordered Product Type and the most returned product type 
+      and above it there are two text boxes.
 ![Screenshot (89)](https://github.com/user-attachments/assets/6bc0e022-bcff-413e-a080-f0d119ed10be)
 ## 📸 Page -> 2 ( Map ) Snapshot 
 ![Screenshot (90)](https://github.com/user-attachments/assets/59280d39-f060-46e7-ab15-01012fb02e33)
