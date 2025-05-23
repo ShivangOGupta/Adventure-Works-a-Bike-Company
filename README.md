@@ -1,4 +1,4 @@
- # 🚴‍♂️ Adventure Works a Bike Company - Dashboard
+## 🚴‍♂️ Adventure Works a Bike Company - Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/links/tPx_cQ7V9d?ctid=edc5c3bf-4ab5-4697-84fa-41b44eb08b5e&pbi_source=linkShare
 
@@ -28,6 +28,12 @@ This dashboard helps the Adventure Works to  analyse their business at a differe
 ![Screenshot (91)](https://github.com/user-attachments/assets/3ff30dcf-e060-4d86-8a6e-bec6d5d9d0f2)
 ## 📸 Page -> 4 ( Product Details ) Snapshot 
 ![Screenshot (92)](https://github.com/user-attachments/assets/c49da0cb-6ae5-4e04-b345-60d786f08d34)
+
+## 📱 Mobile Layout Snapshot
+![Screenshot (96)](https://github.com/user-attachments/assets/b0637119-49f5-4686-ae22-6db16d4a97f5)
+![Screenshot (97)](https://github.com/user-attachments/assets/a19cbb22-eaf9-4eef-8c06-0640f1083cab)
+
+
 
 
 
